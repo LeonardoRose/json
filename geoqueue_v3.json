@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.6338, -23.551],
+            [-46.6338, -23.549],
+            [-46.6328, -23.549],
+            [-46.6328, -23.551],
+            [-46.6338, -23.551]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Quadrado 1km em São Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.1734, -22.9073],
+            [-43.1734, -22.9053],
+            [-43.1724, -22.9053],
+            [-43.1724, -22.9073],
+            [-43.1734, -22.9073]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Quadrado 1km no Rio de Janeiro"
+      }
+    }
+  ]
+}
