@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.6333, -23.5505]
+      },
+      "properties": {
+        "name": "Círculo 1km em São Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.6423, -23.5505],
+            [-46.6378, -23.5610],  
+            [-46.6288, -23.5610],
+            [-46.6243, -23.5505],
+            [-46.6288, -23.5400],
+            [-46.6378, -23.5400],
+            [-46.6423, -23.5505]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Círculo 1km em São Paulo"
+      }
+    }
+  ]
+}
